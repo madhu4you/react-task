@@ -1,0 +1,8 @@
+src/
+dist/
+target/
+logs/
+node_modules/
+pm2/
+npm-debug.log
+.idea/
