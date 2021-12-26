@@ -16,7 +16,7 @@ config/local.js*
 *.iml
 
 src
-dist
+build
 
 pm2
 *.code-workspace
